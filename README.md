@@ -1,4 +1,4 @@
-#🖥️ Streamlit App: Seaborn Visualizations
+# 🖥️ Streamlit App: Seaborn Visualizations
 
 This project is a Streamlit web application that showcases various Seaborn visualizations using built-in datasets like tips, titanic, etc. It's built using Python and demonstrates how to turn static plots into an interactive dashboard.
 
